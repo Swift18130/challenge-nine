@@ -1,3 +1,5 @@
-# Professional README Generator Starter Code
+# Use the Terminal to Quick Create a README File
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+We will use the terminal to run the index.js file which will prompt a series of questions that will result in the automatic creation of a README file. This will help to ensure that I am creating high quality README files, easily, in the future. 
+
+

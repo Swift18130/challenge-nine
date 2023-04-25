@@ -21,12 +21,39 @@ const questions = [
 },
 
 {
+    type: "input",
+    name: "Installation",
+    messgae: "How does one install this project",
+
+},
+
+{
+    type: "input",
+    name: "Usage",
+    messgae: "Enter some useage information.",
+
+},
+
+{
+    type: "input",
+    name: "Contributions",
+    messgae: "Any contribution guidelines?",
+
+},
+
+{
+    type: "input",
+    name: "Instructions",
+    messgae: "Any test instructions?",
+
+},
+
+{
     type: "checkbox",
     name: "license",
     message: "Which license type should we add?",
     choices: ["none"], 
 },
-
 ];
 
 // TODO: Create a function to write README file
